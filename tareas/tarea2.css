@@ -1,0 +1,22 @@
+#a {
+  text-shadow: 5px 10px coral(0, 186, 192);
+  text-transform: uppercase;
+}
+#linea1 {
+  background-color: coral(255, 255, 131, 0.89);
+}
+#linea2 {
+  color: coral(115, 223, 160);
+}
+.linea34 {
+  background-color: darkblue(0, 0, 0);
+  color: aquamarine;
+}
+.linea56 {
+  color: darkmagenta(2, 187, 233);
+  text-transform: uppercase;
+}
+#linea7 {
+  font-size: 20px;
+  text-shadow: 5px 9px chartreuse(0, 38, 165, 0.89);
+}

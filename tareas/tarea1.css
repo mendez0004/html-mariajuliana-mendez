@@ -1,3 +1,9 @@
-#titulo {
-  text-shadow: 2px 2px pink;
+h1 {
+  color: aqua(177, 123, 247, 0.823);
+  font-size: 50px;
+  text-aling: center;
+  background-color: aqua(143, 245, 356);
+}
+.salmon {
+  color: aqua (712, 0, 138);
 }
